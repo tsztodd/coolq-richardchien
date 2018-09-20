@@ -1,7 +1,4 @@
 <?php
-if(!defined('IN_COOLQ')) {
-	exit('Access Denied');
-}
 class CQ{
     static function init(){
         global $cq_config;
